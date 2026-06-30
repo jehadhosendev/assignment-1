@@ -115,6 +115,7 @@ section {
 }
 .section-container{
     margin-top: 115px;
+    margin: 0 auto;
 }
 .section-header img{
     max-width: 16px;
@@ -272,7 +273,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 60px;
+    gap: 200px;
     margin: 0 auto;
 }
 .cercle-container .cercle-image{
@@ -338,15 +339,17 @@ section {
     width: 100%;
     max-width: 1600px;
     text-align: center;
-    margin: 0 auto;
+    padding: 0 auto;
+    padding: 0 auto;
 }
 
 section .last-container{
     width: 100%;
     max-width: 1350px;
-    background-color: #F7F6F2;
+    background-color: #f7f2f2;
     margin: 0px 120px 120px 120px;
     padding: 80px 40px 80px 40px;
+    margin:  0 auto;
 
 }
 
@@ -418,7 +421,8 @@ section .last-container{
 
 .footer-container .footer-header{
     display: flex;
-    justify-content: space-between;
+    gap: 500px;
+    justify-content: space-around;
     align-items: center;
     margin: 0 auto;
     padding: 120px 120px 30px 120px;
@@ -448,16 +452,15 @@ section .last-container{
 }
 
 .footer-container hr{
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     border-color: #E5E7EB;
 }
 
 .footer-container h4 {
     text-align: center;
-    margin-bottom: 30px;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     color: #FFFFFF;
-    padding-bottom: 15px;
+    padding-bottom: 50px;
 }
