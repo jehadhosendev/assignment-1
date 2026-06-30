@@ -420,9 +420,10 @@ section .last-container{
 
 
 .footer-container .footer-header{
+    width: 100%;
+    max-width: 1350px;
     display: flex;
-    gap: 500px;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     margin: 0 auto;
     padding: 120px 120px 30px 120px;
