@@ -50,8 +50,8 @@ nav{
     width: 100%;
     max-width: 1600px;
     background-color: #FFFFFF;
-    margin: 0 auto;
     padding: 15px 120px;
+    margin: 0 auto;
 
 }
 
@@ -87,8 +87,8 @@ nav{
 section {
     width: 100%;
     max-width: 1600px;
-    margin: 0 auto;
     padding: 70px 120px 135px 120px;
+    margin: 0 auto;
     
 }
 /* heder style end */
@@ -111,10 +111,10 @@ section {
     gap: 5px;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
     padding: 8px 5px;
     border-radius: 1000px;
     margin-bottom: 16px;
+    margin: 0 auto;
 }
 .section-container{
     margin-top: 115px;
@@ -215,8 +215,8 @@ section {
     max-width: 1350px;
     display: flex;
     gap: 25px;
-    margin: 0 auto;
     text-align: center;
+    margin: 0 auto;
    }
 
 .apps-container .apps-items .items{
@@ -372,9 +372,9 @@ section .last-container{
     line-height: 24px;
     letter-spacing: 0%;
     text-align: center;
-    margin: 0 auto ;
     color: #627382;
     margin-bottom: 15px;
+    margin: 0 auto;
 }
 
 .last-container .last-button {
@@ -409,16 +409,16 @@ section .last-container{
     line-height: 20px;
     letter-spacing: 0%;
     text-align: center;
-    margin: 0 auto ;
     color: #627382;
    margin-bottom: 15px;
+    margin: 0 auto;
 }
 
 /*  footer style start */
 #footer-section{
     width: 100%;
-    margin: 0 auto;
     background-color: #001931;
+    margin: 0 auto;
 }
 
 
@@ -429,8 +429,9 @@ section .last-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 auto;
     padding: 120px 120px 30px 120px;
+    margin: 0px 120px 120px 120px;
+    margin: 0 auto;
 }
 
 #footer-section .footer-container{
