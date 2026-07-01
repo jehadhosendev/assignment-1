@@ -348,10 +348,10 @@ section {
 
 section .last-container{
     width: 100%;
-    max-width: 1350px;
+    max-width: 1250px;
     background-color: #f7f2f2;
     margin: 0px 120px 120px 120px;
-    padding: 80px 40px 80px 40px;
+    padding: 80px 40px 80px 80px;
     margin:  0 auto;
 
 }
@@ -373,8 +373,8 @@ section .last-container{
     letter-spacing: 0%;
     text-align: center;
     color: #627382;
-    margin-bottom: 15px;
     margin: 0 auto;
+    margin-bottom: 15px;
 }
 
 .last-container .last-button {
